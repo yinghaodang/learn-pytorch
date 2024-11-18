@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python package files
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python logs
+*.log
+
+# Editor/IDE specific
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# test_files
+test*
+
+# third-party repository
+hw5/CTCDecoder/
