@@ -27,3 +27,7 @@ test*
 
 # third-party repository
 hw5/CTCDecoder/
+smart12_4/word-embeddings-for-nmt
+smart12_4/data/
+smart12_4/ted*
+smart12_4/dict*
