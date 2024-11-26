@@ -24,6 +24,7 @@ build/
 
 # test_files
 test*
+测试*
 
 # third-party repository
 hw5/CTCDecoder/
